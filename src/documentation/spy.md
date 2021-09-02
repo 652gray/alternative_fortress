@@ -5,7 +5,13 @@ __**Primary**__
 Revolver
 ```
 ```
-Unchanged
+Fires syringe instead of bullet
+```
+```yaml
++ -35% speed on target
+```
+```diff
+- -66% clip size
 ```
 
 
