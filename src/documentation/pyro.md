@@ -3,8 +3,10 @@ __**Primary**__
 ```fix
 Flamethrower
 ```
-```
-Unchanged
+```yaml
++ +25 degrees flame spread
+```diff
+- Increased flame drag
 ```
 
 
@@ -156,8 +158,13 @@ __**Melee**__
 ```fix
 Fire Axe
 ```
+```yaml
++ Crits on non-burning targets
 ```
-Unchanged
+```diff
+- Ignites enemies on hit
+- -50% damage
+- No random critical hits
 ```
 
 
