@@ -44,7 +44,7 @@ Turn reflected projectiles into small ammo boxes
 Phlogistinator
 ```
 ```
-Unchanged
+Now applies Battalion's Backup effect instead of crits
 ```
 
 __**Secondary**__
