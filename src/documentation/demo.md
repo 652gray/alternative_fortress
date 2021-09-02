@@ -43,8 +43,9 @@ Bootlegger
 ```fix
 Loose Cannon
 ```
-```
-Unchanged
+```yaml
++ 25% less self-inflicted blast damage while active
+- 15% damage vulnerability while active
 ```
 
 
@@ -78,7 +79,10 @@ __**Secondary**__
 Stickybomb Launcher
 ```
 ```
-Unchanged
++ 25% reduced self-inflicted blast damage
++ +10% blast radius
+- -2 bombs out
+- -25% clip size
 ```
 
 
@@ -188,8 +192,11 @@ __**Melee**__
 ```fix
 Bottle
 ```
-```
-Unchanged
+```yaml
++ Crits while blast jumping
++ No fall damage while active
++ +35% deploy speed
+- No random critical hits
 ```
 
 
