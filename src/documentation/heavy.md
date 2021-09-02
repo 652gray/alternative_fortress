@@ -4,8 +4,10 @@ __**Primary**__
 ```fix
 Minigun
 ```
-```
-Unchanged
+```yaml
++ +3 health on hit
+```diff
+- -40% damage
 ```
 
 ```fix
