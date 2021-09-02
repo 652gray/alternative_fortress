@@ -4,8 +4,13 @@ __**Primary**__
 ```fix
 Rocket Launcher
 ```
+```yaml
++ +50% firing speed
++ +30% faster reload
 ```
-Unchanged
+```diff
+- -50% clip size
+- -15% damage
 ```
 
 
