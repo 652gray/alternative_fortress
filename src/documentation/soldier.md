@@ -79,8 +79,12 @@ A melee designed to uncover spies. Especially helpful near sentries.
 ```fix
 Cow Mangler 5000
 ```
+```yaml
++ Ignites enemies on hit
 ```
-Unchanged
+```diff
+- Ignites you on self-damage
+- -25% damage
 ```
 
 
@@ -240,8 +244,12 @@ __**Melee**__
 ```fix
 Shovel
 ```
+```yaml
++ Fill half your Rage meter on hit
 ```
-Unchanged
+```diff
+- No random critical hits
+- 30% damage vulnerability while active
 ```
 
 
