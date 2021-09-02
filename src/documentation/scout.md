@@ -4,8 +4,13 @@ __**Primary**__
 ```fix
 Scattergun
 ```
+```yaml
++ Hold Fire to load up to three shots, then release to unleash the barrage
++ +60% firing speed
 ```
-Unchanged
+```diff
+- 20% less accurate
+- 10% slower reload
 ```
 
 
@@ -89,7 +94,11 @@ __**Secondary**__
 Pistol
 ```
 ```
-Unchanged
+Fires syringes instead of bullets
+```
+```yaml
++100% clip size
++100% reserve ammo
 ```
 
 
