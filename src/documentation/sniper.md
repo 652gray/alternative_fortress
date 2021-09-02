@@ -4,8 +4,14 @@ __**Primary**__
 ```fix
 Sniper Rifle
 ```
+```yaml
++ +10% damage
++ 20% faster reload
++ +20% firing rate
 ```
-Unchanged
+```diff
+- -90% speed while scoped
+- No charge
 ```
 
 ```fix
