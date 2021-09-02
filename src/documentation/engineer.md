@@ -90,7 +90,11 @@ __**Secondary**__
 Pistol
 ```
 ```
-Unchanged
+Fires syringes instead of bullets
+```
+```yaml
++100% clip size
++100% reserve ammo
 ```
 
 
